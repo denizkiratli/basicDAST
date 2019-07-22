@@ -1,0 +1,13 @@
+id
+uid
+sid
+username
+user_name
+uname
+pw
+password
+pass
+passwd
+code
+name
+url
